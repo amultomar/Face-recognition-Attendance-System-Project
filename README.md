@@ -29,8 +29,4 @@ This System uses facial recognition technology to record the attendance through 
 
 ### WhatsApp: **+91 8191864170** 
 
-### Website : https://www.finalproject.in/
-
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
 IMP : If you are getting error/problems/queires then Reach me will help you
