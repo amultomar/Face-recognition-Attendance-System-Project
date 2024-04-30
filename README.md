@@ -4,7 +4,7 @@ Final Year Face recognition Attendance System Project
 ### Youtube Implementation Video : https://youtu.be/tLhFaAurhGw
 
 
-![FACE DETECTION](https://user-images.githubusercontent.com/28294942/166667109-d2024d8c-9aec-44ed-93f8-8f1d9b66098a.png)
+![FACE DETECTION]("C:\Users\amult\Downloads\pypro.jpg")
 
 
 ### Abstract 
@@ -25,14 +25,12 @@ This System uses facial recognition technology to record the attendance through 
 
 ## How to Reach me :
 
-### Mail : vatshayan007@gmail.com 
+### Mail : amultomar09@gmail.com 
 
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** 
+### WhatsApp: **+91 8191864170** 
 
 ### Website : https://www.finalproject.in/
 
 ### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-### Youtube Implementation Video : https://youtu.be/tLhFaAurhGw
 
 IMP : If you are getting error/problems/queires then Reach me will help you
